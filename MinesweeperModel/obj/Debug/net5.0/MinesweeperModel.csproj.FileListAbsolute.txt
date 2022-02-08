@@ -1,0 +1,12 @@
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\bin\Debug\net5.0\MinesweeperModel.deps.json
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\bin\Debug\net5.0\MinesweeperModel.dll
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\bin\Debug\net5.0\ref\MinesweeperModel.dll
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\bin\Debug\net5.0\MinesweeperModel.pdb
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.csproj.AssemblyReference.cache
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.AssemblyInfoInputs.cache
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.AssemblyInfo.cs
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.csproj.CoreCompileInputs.cache
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.dll
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\ref\MinesweeperModel.dll
+C:\Users\Akiva Jacobson\RiderProjects\minesweeper-windows-ajac97\MinesweeperModel\obj\Debug\net5.0\MinesweeperModel.pdb
